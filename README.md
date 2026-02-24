@@ -225,8 +225,5 @@ Students were categorized as:
 
 The **University Course Management System** successfully demonstrates how SQL can be used to create, manage, and analyze structured academic data using relational database concepts and advanced querying techniques.
 
-This project provides a strong foundation for understanding real-world database management systems used in universities and organizations.
 
----
 
-⭐ If you like this project, don't forget to star the repository!
